@@ -13,3 +13,6 @@
 
 ### ETH Taken Out of Address Account
 ![](https://github.com/KevinLacap/Smart-Contracts-Solidity-/blob/master/screenshots/ETH%20Taken%20from%20Account.png)
+
+### Confirm Transaction
+![](https://github.com/KevinLacap/Smart-Contracts-Solidity-/blob/master/screenshots/Confirm%20Transaction.png)
