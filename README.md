@@ -16,3 +16,6 @@
 
 ### Confirm Transaction
 ![](https://github.com/KevinLacap/Smart-Contracts-Solidity-/blob/master/screenshots/Confirm%20Transaction.png)
+
+### MetaMask Notification
+![](https://github.com/KevinLacap/Smart-Contracts-Solidity-/blob/master/screenshots/Meta%20Mask%20Notification.png)
