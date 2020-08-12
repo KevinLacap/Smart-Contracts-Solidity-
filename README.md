@@ -7,3 +7,6 @@
 
 ### Open Remix - Compile Code to send to ETH
 ![](https://github.com/KevinLacap/Smart-Contracts-Solidity-/blob/master/screenshots/Compile%20Code.png)
+
+### Deploy and Run Transaction 
+![](https://github.com/KevinLacap/Smart-Contracts-Solidity-/blob/master/screenshots/Deploy.png)
