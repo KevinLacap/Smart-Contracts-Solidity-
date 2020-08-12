@@ -10,3 +10,6 @@
 
 ### Deploy and Run Transaction 
 ![](https://github.com/KevinLacap/Smart-Contracts-Solidity-/blob/master/screenshots/Deploy.png)
+
+### ETH Taken Out of Address Account
+![](https://github.com/KevinLacap/Smart-Contracts-Solidity-/blob/master/screenshots/ETH%20Taken%20from%20Account.png)
