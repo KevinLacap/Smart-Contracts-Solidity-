@@ -11,11 +11,11 @@
 ### Deploy and Run Transaction 
 ![](https://github.com/KevinLacap/Smart-Contracts-Solidity-/blob/master/screenshots/Deploy.png)
 
-### ETH Taken Out of Address Account
-![](https://github.com/KevinLacap/Smart-Contracts-Solidity-/blob/master/screenshots/ETH%20Taken%20from%20Account.png)
-
 ### Confirm Transaction
 ![](https://github.com/KevinLacap/Smart-Contracts-Solidity-/blob/master/screenshots/Confirm%20Transaction.png)
+
+### ETH Taken Out of Address Account
+![](https://github.com/KevinLacap/Smart-Contracts-Solidity-/blob/master/screenshots/ETH%20Taken%20from%20Account.png)
 
 ### MetaMask Notification of Transaction
 ![](https://github.com/KevinLacap/Smart-Contracts-Solidity-/blob/master/screenshots/Meta%20Mask%20Notification.png)
