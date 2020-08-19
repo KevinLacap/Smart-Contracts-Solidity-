@@ -10,6 +10,15 @@ contract JointSavings {
   }
 
   function deposit() public payable {}
+      uint amount = msg.value / 3;
 
+      employee_one.transfer(amount);
+      employee_two.transfer(amount);
+      employee_three.transfer(amount);
+
+      msg.sender.transfer(msg.value - amount * 3); // take care of a potential remainder by sending back to HR
+    }
+    
   function() external payable {}
-}
+      deposit();
+  
